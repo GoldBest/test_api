@@ -12,7 +12,6 @@
 <br><br>
 
 ## Запуск и проверка ##
----
 
 git clone git@github.com:GoldBest/test_api.git
 
